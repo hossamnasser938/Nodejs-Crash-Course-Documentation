@@ -1,4 +1,4 @@
-# Nodejs-Crash-course
+# Nodejs-Crash-Course-Documentation
 * A great crash course that makes you familiar with ` Node JS `.  
 * It walkes you through the basics of ` Node JS `.
 * It does not go deep since it is a crash course.
