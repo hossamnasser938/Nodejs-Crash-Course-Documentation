@@ -47,7 +47,7 @@ module.exports = Person;
 Note that this is a **default** ` export `.
 * To ` import ` something, you call ` require ` and pass either the name of a module or the path to a file you want to ` import ` from.
 ```js
-const P = require('./Person.js);  // The name of the file with export statement
+const P = require('./Person.js');  // The name of the file with export statement
 
 console.log( P );
 ```
